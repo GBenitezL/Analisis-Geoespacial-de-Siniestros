@@ -1,0 +1,6 @@
+IDRuta	NombreRuta	TipoUbicacion	Empresa	HoraSalida	Longitud	Latitud	ValorMercancia	IDConductor
+a1	Relleno de Inventario	Tienda	Empresa 1	10:03:00	-100.2285419	25.55047596	150000	1
+b2	Traslado de efectivo	Banco	Banco 1	8:58:00	-100.318156048963,	25.68516266	300000	1
+c3	Relleno de Inventario	Tienda	Empresa 3	14:10:00	-100.2424141	25.6642709	1500000	1
+d4	Relleno de Inventario	Tienda	Empresa 2	11:00:19	-100.3815482	25.66420046	200000	1
+e5	Traslado de efectivo	Banco	Banco 1	16:00:00	-100.318156	25.68516266	123000	1

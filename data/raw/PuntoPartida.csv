@@ -1,0 +1,6 @@
+IDRuta	NombreRuta	TipoUbicacion	Empresa	HoraProgramadaSalida	Longitud	Latitud	ValorMercancia	IDConductor
+a1	Relleno de Inventario	Bodega	Empresa 1	10:00:00	-100.3165403	25.69629971	150000	1
+b2	Traslado de efectivo	Tienda	Empresa 1	9:00:00	-100.2038227	25.66314428	300000	1
+c3	Relleno de Inventario	Bodega	Empresa 3	14:00:00	-100.1452932	25.78883897	1500000	1
+d4	Relleno de Inventario	Bodega	Empresa 2	11:00:00	-100.3676063	25.81491358	200000	1
+e5	Traslado de efectivo	Tienda	Empresa 3	15:00:00	-100.4212771	25.74450802	123000	1
